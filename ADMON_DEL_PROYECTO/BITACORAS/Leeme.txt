@@ -1,0 +1,1 @@
+Carpeta que contiene las bitácoras, organizadas por año mes.

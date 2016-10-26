@@ -1,0 +1,1 @@
+Documento que contiene el ambiente de desarrollo, bajo el cual se va a crear el proyecto.
