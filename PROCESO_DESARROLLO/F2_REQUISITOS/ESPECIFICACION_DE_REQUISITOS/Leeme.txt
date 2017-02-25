@@ -1,1 +1,0 @@
-Es el documento de especificación de requisitos software (ERS).

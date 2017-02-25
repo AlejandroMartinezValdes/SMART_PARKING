@@ -1,1 +1,0 @@
-Documento que describe el plan general para el desarrollo del proyecto, este plan contiene: descripción del proyecto, equipo de trabajo, presupuesto, restricciones, y calendario de las actividades.
